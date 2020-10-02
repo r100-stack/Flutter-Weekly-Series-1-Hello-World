@@ -14,3 +14,9 @@
 // cross-platform Material Design Guidelines
 // TODO (7): Choose the material package from the Alt+Enter intention actions.
 // TODO (8): Pass null as a parameter to runApp(). We will implement the app to run in the next steps.
+
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(null);
+}
