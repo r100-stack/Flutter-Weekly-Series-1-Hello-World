@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(null);
+  runApp(MyApp());
 }
 
 // TODO (1): Type "stl". This is the shortcut to create a stateless widget
@@ -11,5 +11,13 @@ void main() {
 // TODO (3): Now replace the null on line 4 with MyApp().
 // Doing this runs our newly created widget that holds the contents of our app
 
-// NOTE: Running the app now may give errors. This is normal! It will be fixed
-// in the coming steps.
+// NOTE: You should see a blank black screen if everything goes correctly.
+// If you're getting an error similar to failed assertion: _child == null, do a cold restart.
+// A cold restart involves pressing the stop button and then pressing the play button again.
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
