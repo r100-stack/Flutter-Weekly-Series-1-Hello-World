@@ -32,6 +32,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
+        appBar: AppBar(
+          title: Text('Hello World!'),
+          backgroundColor: Colors.red,
+        ),
         body: Text('Hello World'),
       ),
     );
