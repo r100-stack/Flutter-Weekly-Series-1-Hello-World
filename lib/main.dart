@@ -11,5 +11,6 @@ void main() {
 // TODO (3): Now replace the null on line 4 with MyApp().
 // Doing this runs our newly created widget that holds the contents of our app
 
-// NOTE: Running the app now may give errors. This is normal! It will be fixed
-// in the coming steps.
+// NOTE: You should see a blank black screen if everything goes correctly.
+// If you're getting an error similar to failed assertion: _child == null, do a cold restart.
+// A cold restart involves pressing the stop button and then pressing the play button again.
