@@ -23,7 +23,9 @@ A recommended way to follow this repo is to compare the starter and solution bra
 You can do this on GitHub or in Android Studio/VS Code.
 
 [How to compare branches on GitHub](https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/comparing-commits#comparing-branches)
+
 [How to compare branches on Android Studio](https://medium.com/better-programming/how-to-use-git-in-android-studio-part-2-93cec67b91b0#:~:text=Go%20to%20%E2%80%9CVSC%E2%80%9D%20%2D%3E,choose%20%E2%80%9CCompare%20with%20current%E2%80%9D.&text=A%20popup%20%E2%80%9CCompare%20feature%20with,to%20commits%2C%20files%20to%20files.)
+
 [How to compare branches on Android Studio](https://stackoverflow.com/a/57833947/11547064)
 
 ### Steps
