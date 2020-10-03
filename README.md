@@ -1,16 +1,46 @@
-# hello_world_1_new
+# Beginners' Guide to Flutter Development
 
-A new Flutter application.
+Welcome to the Beginners' Guide to Flutter Development hosted by Google's Developer Student Club (DSC) program!
 
-## Getting Started
+This is an eight week workshop series every Thursday, 7:00 - 8:30 EDT from Oct 1, 2020 to Nov 19, 2020.
 
-This project is a starting point for a Flutter application.
+This series will cover all the Flutter skills all the way from the basics to the advanced level.
+By the end of this series, you'll be able to build complex, robust, and attractive Flutter apps for iOS, Android and the web.
 
-A few resources to get you started if this is your first Flutter project:
+Register now on EventBrite: [bit.ly/flutterdate](https://bit.ly/flutterdate) <br>
+More info on: [www.dsclsu.com/android](https://www.dsclsu.com/android)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## 1. Hello World App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There's a higher omnipotent deity that tells us to start each new CS language we learn with a "Hello World" app. The last time someone disobeyed this deity, their apartment was found vacant and there was no trace of that person.
+
+For the sake of our safety, we will do what this deity wants. Hence, our first app with be the, yup you guessed it — "Hello World" app.
+
+### Structure
+
+The app has been divided into steps. Each step has starter and solution code. You can access each code set using the respective branches.
+
+A recommended way to follow this repo is to compare the starter and solution branches for each step.
+You can do this on GitHub or in Android Studio/VS Code.
+
+[How to compare branches on GitHub](https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/comparing-commits#comparing-branches)
+[How to compare branches on Android Studio](https://medium.com/better-programming/how-to-use-git-in-android-studio-part-2-93cec67b91b0#:~:text=Go%20to%20%E2%80%9CVSC%E2%80%9D%20%2D%3E,choose%20%E2%80%9CCompare%20with%20current%E2%80%9D.&text=A%20popup%20%E2%80%9CCompare%20feature%20with,to%20commits%2C%20files%20to%20files.)
+[How to compare branches on Android Studio](https://stackoverflow.com/a/57833947/11547064)
+
+### Steps
+
+1.
+
+### Screenshots
+<br>
+<img src="assets/images/screenshot.gif">
+
+<br>
+<br>
+
+### Skills Learned
+
+* TableLayout and TableRow
+* HashMaps
+* Efficient algorithm design
+* Intermediate to advanced coding practices
