@@ -9,6 +9,8 @@ By the end of this series, you'll be able to build complex, robust, and attracti
 
 Register now on EventBrite: [bit.ly/flutterdate](https://bit.ly/flutterdate)
 
+Have questions? Then [join the Google Classroom today](https://classroom.google.com/c/MTYyMzE1MDQwMDcx?cjc=5irho7x)!
+
 ## 1. Hello World App
 
 There's a higher omnipotent deity that tells us to start each new CS language we learn with a "Hello World" app. The last time someone disobeyed this deity, their apartment was found vacant and there was no trace of that person.
@@ -17,10 +19,15 @@ For the sake of our safety, we will do what this deity wants. Hence, our first a
 
 ### Structure
 
-The app has been divided into steps. Each step has starter and solution code. You can access each code set using the respective branches.
+* The app has been divided into steps.
+* Each step has starter and solution code. 
+* You can access each code set using the respective branches. 
+* Also, each step has detailed TODOs along with explanations on why we're doing each TODO.
 
-A recommended way to follow this repo is to compare the starter and solution branches for each step.
-You can do this on GitHub or in Android Studio/VS Code.
+### How to follow this repo?
+
+* Complete the given TODOs in order.
+* Compare the starter and solution branches for each step. You can do this on GitHub or in Android Studio/VS Code.
 
 [How to compare branches on GitHub](https://docs.github.com/en/free-pro-team@latest/github/committing-changes-to-your-project/comparing-commits#comparing-branches)
 
