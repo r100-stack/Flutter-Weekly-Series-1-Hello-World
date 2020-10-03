@@ -9,7 +9,7 @@ By the end of this series, you'll be able to build complex, robust, and attracti
 
 Register now on EventBrite: [bit.ly/flutterdate](https://bit.ly/flutterdate)
 
-Have questions? Then [join the Google Classroom today](https://classroom.google.com/c/MTYyMzE1MDQwMDcx?cjc=5irho7x)!
+Have questions? Then [join our Google Classroom today](https://classroom.google.com/c/MTYyMzE1MDQwMDcx?cjc=5irho7x)!
 
 ## 1. Hello World App
 
