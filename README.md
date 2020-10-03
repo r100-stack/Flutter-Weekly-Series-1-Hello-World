@@ -7,8 +7,7 @@ This is an eight week workshop series every Thursday, 7:00 - 8:30 EDT from Oct 1
 This series will cover all the Flutter skills all the way from the basics to the advanced level.
 By the end of this series, you'll be able to build complex, robust, and attractive Flutter apps for iOS, Android and the web.
 
-Register now on EventBrite: [bit.ly/flutterdate](https://bit.ly/flutterdate) <br>
-More info on: [www.dsclsu.com/android](https://www.dsclsu.com/android)
+Register now on EventBrite: [bit.ly/flutterdate](https://bit.ly/flutterdate)
 
 ## 1. Hello World App
 
@@ -29,18 +28,22 @@ You can do this on GitHub or in Android Studio/VS Code.
 
 ### Steps
 
-1.
-
-### Screenshots
-<br>
-<img src="assets/images/screenshot.gif">
-
-<br>
-<br>
+1. Writing main()
+<img src="assets/images/step1-solution.png">
+2. Creating our MyApp widget
+<img src="assets/images/step2-solution.png">
+3. Creating our MaterialApp widget with a Scaffold and Text.
+<img src="assets/images/step3-solution.png">
+4. Adding an AppBar
+<img src="assets/images/step4-solution.png">
+5. Styling our Text widget
+<img src="assets/images/step5-solution.png">
 
 ### Skills Learned
 
-* TableLayout and TableRow
-* HashMaps
-* Efficient algorithm design
-* Intermediate to advanced coding practices
+* Intro to Flutter
+* Text
+* Scaffold
+* MaterialApp
+* Default Material Design colors with Colors
+* TextStyle
