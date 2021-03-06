@@ -47,6 +47,8 @@ For the sake of our safety, we will do what this deity wants. Hence, our first a
 <img src="assets/images/step4-solution.png">
 5. Styling our Text widget
 <img src="assets/images/step5-solution.png">
+6. Running the app on the Web
+<img src="assets/images/step6-solution.png">
 
 ### Skills Learned
 
