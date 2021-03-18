@@ -58,3 +58,4 @@ For the sake of our safety, we will do what this deity wants. Hence, our first a
 * MaterialApp
 * Default Material Design colors with Colors
 * TextStyle
+* Running on web
